@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "events": "^3.2.0",
+    "fs": "0.0.1-security",
     "nconf": "^0.10.0",
     "querystring": "^0.2.0",
-    "url": "^0.11.0"
+    "url": "^0.11.0",
+    "util": "^0.12.3"
   }
 }
