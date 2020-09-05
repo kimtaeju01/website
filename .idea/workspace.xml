@@ -20,12 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d36c5722-a1ae-470d-b0d7-26c9261b1060" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/file_pr/ex18.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mk_web_server/web_ex1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mk_web_server/web_ex2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mk_web_server/web_ex3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express_pr/express_ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express_pr/express_ex2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express_pr/express_ex3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express_pr/express_ex4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_pr/pr" beforeDir="false" afterPath="$PROJECT_DIR$/file_pr/pr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,20 +67,20 @@
       <recent name="C:\Users\win10\WebstormProjects\untitled" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.web_ex3.js">
+  <component name="RunManager" selected="Node.js.express_ex4.js">
     <configuration name="ex10.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/event_pr/ex10.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="ex17.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/file_pr/ex17.js" working-dir="$PROJECT_DIR$/file_pr">
+    <configuration name="express_ex1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/express_pr/express_ex1.js" working-dir="$PROJECT_DIR$/express_pr">
       <method v="2" />
     </configuration>
-    <configuration name="ex18.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/file_pr/ex18.js" working-dir="$PROJECT_DIR$/file_pr">
+    <configuration name="express_ex2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/express_pr/express_ex2.js" working-dir="$PROJECT_DIR$/express_pr">
       <method v="2" />
     </configuration>
-    <configuration name="web_ex1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/mk_web_server/web_ex1.js" working-dir="$PROJECT_DIR$/mk_web_server">
+    <configuration name="express_ex3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/express_pr/express_ex3.js" working-dir="$PROJECT_DIR$/express_pr">
       <method v="2" />
     </configuration>
-    <configuration name="web_ex2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/mk_web_server/web_ex2.js" working-dir="$PROJECT_DIR$/mk_web_server">
+    <configuration name="express_ex4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/express_pr/express_ex4.js" working-dir="$PROJECT_DIR$/express_pr">
       <method v="2" />
     </configuration>
     <configuration name="web_ex3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/mk_web_server/web_ex3.js" working-dir="$PROJECT_DIR$/mk_web_server">
@@ -87,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.express_ex4.js" />
+        <item itemvalue="Node.js.express_ex3.js" />
+        <item itemvalue="Node.js.express_ex2.js" />
         <item itemvalue="Node.js.web_ex3.js" />
-        <item itemvalue="Node.js.web_ex2.js" />
-        <item itemvalue="Node.js.web_ex1.js" />
-        <item itemvalue="Node.js.ex18.js" />
-        <item itemvalue="Node.js.ex17.js" />
+        <item itemvalue="Node.js.express_ex1.js" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +110,8 @@
       <workItem from="1599050454239" duration="5040000" />
       <workItem from="1599110639939" duration="4000000" />
       <workItem from="1599147249348" duration="3416000" />
-      <workItem from="1599201362304" duration="6583000" />
+      <workItem from="1599201362304" duration="8244000" />
+      <workItem from="1599308818020" duration="2650000" />
     </task>
     <servers />
   </component>
@@ -136,26 +138,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="733" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599202316752" />
-    <state width="1899" height="271" key="GridCell.Tab.0.bottom" timestamp="1599289908397">
+    <state width="1899" height="271" key="GridCell.Tab.0.bottom" timestamp="1599311386810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598960102734" />
-    <state width="1899" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599289908397" />
-    <state width="1899" height="271" key="GridCell.Tab.0.center" timestamp="1599289908397">
+    <state width="1899" height="271" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599311386810" />
+    <state width="1899" height="271" key="GridCell.Tab.0.center" timestamp="1599311386809">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598960102734" />
-    <state width="1899" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599289908397" />
-    <state width="1899" height="271" key="GridCell.Tab.0.left" timestamp="1599289908397">
+    <state width="1899" height="271" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599311386809" />
+    <state width="1899" height="271" key="GridCell.Tab.0.left" timestamp="1599311386808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598960102734" />
-    <state width="1899" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599289908397" />
-    <state width="1899" height="271" key="GridCell.Tab.0.right" timestamp="1599289908397">
+    <state width="1899" height="271" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599311386808" />
+    <state width="1899" height="271" key="GridCell.Tab.0.right" timestamp="1599311386810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598960102734" />
-    <state width="1899" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599289908397" />
+    <state width="1899" height="271" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599311386810" />
     <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1599057306938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
