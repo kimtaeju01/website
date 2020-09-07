@@ -15,17 +15,20 @@ app.use(bodyParser.json());
 //public 경로 설정, public에 있는 파일을 사용할 수 있다.
 app.use(static(path.join(__dirname,'public')));
 
-app.use(function (req,res,next) {
-   console.log("첫 번째 미들웨어 요청을 처리함.");
+var router = express.Router();
 
-   var paramId = req.body.id || req.query.id; //post 형식인지 get 형식인지 판별하는 것.
+router.route('/process/login').post(function (req,res) { //process/login으로 가라고 html에서 말하면 이 경로로 왔을 때 결과값을 보여준다ㅓ.
+   console.log("/process/login 처리함");
+   var paramId = req.body.id || req.query.id;
    var paramPassword = req.body.password || req.query.password;
-   res.writeHead('200', {'Content-Type':'text/html;charset=utf-8'});
-   res.write('<p>ID:'+paramId+'</p>');
-   res.write('<p>password:'+paramPassword+'</p>');
-   res.end();
-});
 
+    res.writeHead('200', {'Content-Type':'text/html;charset=utf-8'});
+    res.write('<p>ID:'+paramId+'</p>');
+    res.write('<p>password:'+paramPassword+'</p>');
+    res.end();
+
+});
+app.use('/',router); //라우터 등록.
 http.createServer(app).listen(3000,function (){
     console.log('express 서버가 3000으로부터 시작됨.');
 });
